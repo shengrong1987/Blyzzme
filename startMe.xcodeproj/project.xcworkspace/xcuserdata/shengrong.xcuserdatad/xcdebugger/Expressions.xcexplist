@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ExploreViewController adBannerViewChanged:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bannerFrame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[User initWithEncryptedDictonary:]:User.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController prepareForSegue:sender:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JoinViewController requestFinished:]:JoinViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseStatusCode">
+            </PersistentString>
+            <PersistentString
+               value = "[request responseString]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController textFieldDidBeginEditing:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView">
+            </PersistentString>
+            <PersistentString
+               value = "self.tableList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController tableView:cellForRowAtIndexPath:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_id_from">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController shouldDisplayBanner:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "banner.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ShareViewController imagePickerController:didFinishPickingMediaWithInfo:]:ShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[tb cellForRowAtIndexPath:[NSIndexPath indexPathForRow:0 inSection:0]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController touchMyButton:event:]:ExploreViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ASIFormDataRequest addData:withFileName:andContentType:forKey:]:ASIFormDataRequest.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MasterViewController tableView:cellForRowAtIndexPath:]:MasterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.selectedBackgroundView">
+            </PersistentString>
+            <PersistentString
+               value = "cell.selectedBackgroundView.layer.cornerRadius">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.col">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__57-[ExploreViewController tableView:cellForRowAtIndexPath:]_block_invoke:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "post">
+            </PersistentString>
+            <PersistentString
+               value = "[post.arrImage indexOfObject:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactListViewController tableView:didSelectRowAtIndexPath:]:ContactListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController tableView:heightForRowAtIndexPath:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "post">
+            </PersistentString>
+            <PersistentString
+               value = "[post.arrImage count]">
+            </PersistentString>
+            <PersistentString
+               value = "[post._arrImage count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__54-[PostViewController tableView:cellForRowAtIndexPath:]_block_invoke:PostViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_post">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController viewDidLayoutSubviews]:ExploreViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController viewDidLoad]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarController.selectedIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController getInfoStringForPost:]:ExploreViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChooseProfileImageViewController requestFinished:]:ChooseProfileImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseStatusCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MasterViewController requestFinished:]:MasterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request">
+            </PersistentString>
+            <PersistentString
+               value = "login">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController scrollViewDidScroll:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.scrollsToTop">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.contentOffset.y">
+            </PersistentString>
+            <PersistentString
+               value = "lastScrollOffsetY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Followed initWithId:is_followed:followed_id:nickname:name:surname:img_profile:]:Followed.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DataManager postRequestFinished:]:DataManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CustomTabBar selectTab:]:CustomTabBar.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactListViewController tableView:cellForRowAtIndexPath:]:ContactListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController adBannerViewDidChanged]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "banner.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Post initWithId:title:descr:image:mediaLink:timestamp:tot_likes:like_me:tot_comments:user_id:nickname:name:surname:imgProfile:email:tot_dislikes:dislike_me:]:Post.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController setUserInfo:]:ExploreViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactListViewController requestFinished:]:ContactListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ASIHTTPRequest main]:ASIHTTPRequest.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController requestFinished:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_id_from">
+            </PersistentString>
+            <PersistentString
+               value = "[_tableList numberOfSections]">
+            </PersistentString>
+            <PersistentString
+               value = "[posts count]">
+            </PersistentString>
+            <PersistentString
+               value = "responseDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController touchMyButton:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "img.isHighlighted">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactListViewController followedORUnfollowed:]:ContactListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.highlighted">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController numberOfSectionsInTableView:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_id_from intValue]">
+            </PersistentString>
+            <PersistentString
+               value = "self.userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "![self isLoading] &amp;&amp; self.userInfo)">
+            </PersistentString>
+            <PersistentString
+               value = "[self isLoading]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CommunityViewController goToOtherPages:]:CommunityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selectedViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ShareViewController tableView:cellForRowAtIndexPath:]:ShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Followed initWithEncryptedDictonary:]:Followed.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController bannerView:didFailToReceiveAdWithError:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "banner.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ExploreViewController textFieldDidEndEditing:]:ExploreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tagArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CommunityViewController viewDidLoad]:CommunityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.tabBar.items objectAtIndex:INDEX_OF_EXPLORE]">
+            </PersistentString>
+            <PersistentString
+               value = "self.tabBar.items">
+            </PersistentString>
+            <PersistentString
+               value = "[self.tabBar.items objectAtIndex:1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PostViewController tableView:cellForRowAtIndexPath:]:PostViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_post.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
